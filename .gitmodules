@@ -1,0 +1,6 @@
+[submodule "alterMall-Server"]
+	path = alterMall-Server
+	url = https://github.com/InChrist-Dev/alterMall-Server.git
+[submodule "alterMall-Client"]
+	path = alterMall-Client
+	url = https://github.com/InChrist-Dev/alterMall-Client.git
